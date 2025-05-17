@@ -77,11 +77,11 @@
 
 
 
-  <a href="https://linkedin.com/in/your-profile" target="_blank" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/ yuvraj-shete-97167b32b" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://instagram.com/your-profile" target="_blank" style="text-decoration: none;">
+  <a href="https://instagram.com/yuvraajj._s" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 
