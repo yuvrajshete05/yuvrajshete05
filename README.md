@@ -1,10 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yuvrajshete05/yuvrajshete05/main/backgroundimage.png" alt="Web Developer Banner" width="100%" height="400" />
+  <img src="https://raw.githubusercontent.com/yuvrajshete05/yuvrajshete05/main/backgroundimage.png" alt="Web Developer Banner" width="100%" height="300" />
 </p>
 
+<div align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000,6C3483&height=200&section=header&text=Hi%20👋,%20I'm%20Yuvraj%20Shete&fontSize=50&fontColor=ffffff&fontAlignY=40" alt="Header Banner" width="94.5%" style="margin-Right:10%;" />
+</div>
 
 
-<h1 align="center">Hi 👋, I'm Yuvraj Shete</h1>
+
+
+
+
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left">
