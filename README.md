@@ -1,5 +1,5 @@
 
-
+<img src="readme_media/headerImage.png" width="100%"/>
 
 
 <h1 align="center">Hi 👋, I'm Yuvraj Shete</h1>
@@ -53,7 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" width="32" alt="vscode logo" />
 </div>
 
-<br>  </br>
+<hr style="border: none; height: 2px; background-color: black;">
+
 
 
 <div align="center">
@@ -66,6 +67,8 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yuvrajshete05&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+<hr style="border: none; height: 2px; background-color: black;">
 
 
 
@@ -86,5 +89,4 @@
   </a>
 
 </div>
-
 
