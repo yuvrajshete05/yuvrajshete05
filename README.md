@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuvrajshete05/yuvrajshete05/main/backgroundimage.png" alt="Web Developer Banner" width="100%" height="400" />
+</p>
 
-<img src="readme_media/headerImage.png" width="100%"/>
 
 
 <h1 align="center">Hi 👋, I'm Yuvraj Shete</h1>
