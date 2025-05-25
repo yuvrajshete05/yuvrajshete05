@@ -17,7 +17,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [Intelligent-Career-Guidance-System](career-guidance-system-6.onrender.com)
+- 🔭 I’m currently working on career-guidance-system-6.onrender.com
 
 - 🌱 I’m currently learning **Frameworks**
 
